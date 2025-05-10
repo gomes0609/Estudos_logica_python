@@ -91,9 +91,5 @@ Este conjunto de exercícios é ideal para quem está iniciando em Python e quer
 * Entrada e saída de dados
 * Funções matemáticas básicas
 
----
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
  
